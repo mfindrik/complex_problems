@@ -23,7 +23,7 @@ in order to be solved or solution to be checked (decision problems). The decisio
 
 On the other side, there is also a class of problems called NP class for which it is only possible to check in polynomial time wheather a certain result is indeed a correct solution, but it is not possible to obtain the solution in polynomial time. Why do we care about NP problems? Well, it turns out a lot of important "real-life" problems fall in this category, such as vechicle routing, scheduling, circuit design, etc.
 
-Simple example, SUDOKU, sudoku is hard to solve but once you have a solution it is easy to check if it is correct or not. Are there some harder problems than NP? Yes, there are problems for which it is even hard to check if the solution is correct or not. Consider chess, given a certain move, can you check if it is an optimal move?
+Simple example, SUDOKU, sudoku is hard to solve but once you have a solution it is easy to check if it is correct or not. Are there some harder problems than NP? Yes, there are problems for which it is even hard to check if the solution is correct or not. Consider chess, given a certain move, can you check if it is an optimal move in polynomial time? No, that would take exponential time thus it is considered to be a exponential (EXP) class decision problem.
 
 ## A milion dollar question
 
