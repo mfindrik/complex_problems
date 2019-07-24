@@ -1,4 +1,4 @@
-# complex_problems
+# Computational complexity
 This repository contains pieces of codes for solving some complex computational problems.
 
 ## Introduction
