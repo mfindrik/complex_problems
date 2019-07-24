@@ -17,3 +17,6 @@ array of 10 numbers. Some of the most common function that are used to express n
   * nlogn
   * n^2 - polynomial time
   * exp(n) - exponential time
+
+For computer scientist the most interesting types of problems are the ones which require polynomial or exponential number of operations
+in order to be solved.
