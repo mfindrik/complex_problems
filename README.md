@@ -1,5 +1,5 @@
 # Computational complexity
-This repository contains pieces of codes for solving some complex computational problems.
+This repository will contain pieces of codes for solving some complex computational problems.
 
 ## Introduction
 
@@ -29,6 +29,10 @@ Simple example, SUDOKU, sudoku is hard to solve but once you have a solution it 
 
 The P versus NP problem is a major unsolved problem in computer science. It asks whether every problem whose solution can be quickly verified (technically, verified in polynomial time) can also be solved quickly (again, in polynomial time). Does being able to quickly recognize a correct answers means there is also a quick way to find them?
 
-## Approximtion algorithms
+## Approximtion and heuristic algorithms
 
-Approximation algorithms are a way of approach NP-complete problems. This technique does not guarantee the best solution. The goal of an approximation algorithm is to come as close as possible to the optimum value in a reasonable amount of time which is at the most polynomial time. Such algorithms are called approximation algorithm or heuristic algorithm.
+Approximation algorithms are a way to efficently solve NP-complete and NP-hard problems. Well, they do not solve this problems exactly but approximately, i.e. they provide a solution with  provable guarantees on the distance of the returned solution to the optimal one. On the other hand, heuristic algorithms also provide reasonable solutions to these problems, but without any guarantees about quality of the solution. In this repository, I will give an example of two computationally hard problems and a way in which they can be solved using greedy and local search heuristic techniques.
+
+## Problem 1: Graph Coloring Problem
+
+## Problem 2: Traveling Salesman Problem
