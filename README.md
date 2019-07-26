@@ -28,3 +28,7 @@ Simple example, SUDOKU, sudoku is hard to solve but once you have a solution it 
 ## A milion dollar question
 
 The P versus NP problem is a major unsolved problem in computer science. It asks whether every problem whose solution can be quickly verified (technically, verified in polynomial time) can also be solved quickly (again, in polynomial time). Does being able to quickly recognize a correct answers means there is also a quick way to find them?
+
+## Approximtion algorithms
+
+Approximation algorithms are a way of approach NP-complete problems. This technique does not guarantee the best solution. The goal of an approximation algorithm is to come as close as possible to the optimum value in a reasonable amount of time which is at the most polynomial time. Such algorithms are called approximation algorithm or heuristic algorithm.
